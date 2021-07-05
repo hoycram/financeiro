@@ -2,7 +2,7 @@
 O sistema feito em PHP e MYSQL, consistem em cadastro do parceiro que após o seu cadastro realizara o cadastro do cliente, cadastro de sua conta. Este sistema faz parte de uma implemente feita para uma aplicação chamada Vendoon (www.vendoon.com.br), funcionando como uma espécie de "RH" e controle financeiro do parceiro que prestará serviço para a plataforma. Após o cadastro do usuário o mesmo terá como objetivo cadastrar todos os seus clientes que forem a ser captados, contendo valores e data de quando este cliente entrou. Sendo assim o prestador de serviço terá a sua carteira financeira sendo 1 cliente para plataforma e outro cliente para para ele, mantendo assim o valor em 50% para cada. 
 
 
- Vai upar o sistema que esta pasta zipada Parceiro, depois criar o banco de dados, copiar o código do banco de dados abaixo. No arquivo conexão colocar o nome do banco, usuario e senha. Nas páginas conta.php e cliente.php colocar também as configurações do banco. 
+ Vai upar o sistema que esta na pasta zipada como Parceiro, depois criar o banco de dados, copiar o código do banco de dados abaixo. No arquivo conexão colocar o nome do banco, usuario e senha. Nas páginas conta.php e cliente.php colocar também as configurações do banco. 
 
 <?php
 	$servidor = "localhost";
